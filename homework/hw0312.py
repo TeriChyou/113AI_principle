@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
 # AX=b => X = A^(-1)b
 
 def question1():
