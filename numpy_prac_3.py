@@ -109,3 +109,11 @@ arr = np.array([10,15,25,5])
 newArr = np.diff(arr) # List of => arr[i+1] - arr[i]
 print(newArr)
 """
+
+# Derivative
+def differentiate():
+    x = np.array([4, 3, 4, 5])
+    dx = np.polyder(x)
+    print(dx)
+
+# differentiate()
