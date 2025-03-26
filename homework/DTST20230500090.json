@@ -1,0 +1,4598 @@
+﻿[
+  {
+    "YYYROC": "113",
+    "county": "新北市",
+    "township": "板橋區",
+    "school_name": "新北市私立忠山幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新北市",
+    "township": "三重區",
+    "school_name": "新北市私立啟文幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "桃園區",
+    "school_name": "桃園市立同德國民中學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市立龍興國民中學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市立仁美國民中學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市立富岡國民中學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市觀音區觀音國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區高原國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市平鎮區新勢國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "八德區",
+    "school_name": "桃園市八德區八德國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區大同國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園南勢分班"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市私立溪海大自然幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣私立源興幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣新埔鎮枋寮國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "峨眉鄉",
+    "school_name": "新竹縣峨眉鄉峨眉國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "關西鎮",
+    "school_name": "新竹縣關西鎮石光國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "橫山鄉",
+    "school_name": "新竹縣橫山鄉橫山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "橫山鄉",
+    "school_name": "新竹縣橫山鄉田寮國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣立竹東幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣竹東非營利幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "新豐鄉",
+    "school_name": "新竹縣新豐鄉立幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "新竹縣",
+    "township": "北埔鄉",
+    "school_name": "新竹縣私立新欣幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉華興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "獅潭鄉",
+    "school_name": "苗栗縣獅潭鄉獅潭國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣三義鄉鯉魚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市啟文國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉公館國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉大湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉中興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市新興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉銅鑼國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "頭屋鄉",
+    "school_name": "苗栗縣頭屋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣內灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉新隆國小附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市僑育多元智能實驗國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣私立多倫多幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣斗煥非營利幼兒園(委託社團法人苗栗縣嬰幼兒閱讀推廣協會辦理)"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立文化幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立瑪奇兒幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立三之三嘉新幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉立幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立真正幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "竹南鎮",
+    "school_name": "苗栗縣山佳非營利幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立喬嘉樂幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣私立三義名人幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東勢國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市私立一心園幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "雲林縣",
+    "township": "崙背鄉",
+    "school_name": "雲林縣崙背鄉立幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民中學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區南隆國民中學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民中學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "美濃國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "中壇國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "福安國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "東門國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "吉洋國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "龍山國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "上平國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "新威國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "龍肚國民小學暨幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "美濃國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "中壇國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "吉東國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "上平國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃親親幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣豐田國小附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔國小附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣西勢國小附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣私立香潭幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉立幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園泗溝分班"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "佳冬鄉",
+    "school_name": "屏東縣佳冬鄉立幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣私立立群幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳仁國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "花蓮縣",
+    "township": "花蓮市",
+    "school_name": "花蓮縣花蓮市忠孝國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "花蓮縣",
+    "township": "花蓮市",
+    "school_name": "花蓮縣花蓮市鑄強國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "花蓮縣",
+    "township": "吉安鄉",
+    "school_name": "花蓮縣吉安鄉稻香國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "花蓮縣",
+    "township": "吉安鄉",
+    "school_name": "花蓮縣吉安鄉立幼兒園"
+  },
+  {
+    "YYYROC": "113",
+    "county": "花蓮縣",
+    "township": "花蓮市",
+    "school_name": "國有財產署北區分署花蓮辦事處職場互助教保服務中心"
+  },
+  {
+    "YYYROC": "112",
+    "county": "新北市",
+    "township": "板橋區",
+    "school_name": "新北市私立忠山幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "桃園區",
+    "school_name": "桃園市同德國民中學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市立龍興國民中學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市立仁美國民中學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市富岡國中"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立永安國民中學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立凌雲國民中學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市新屋區大坡國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市觀音區觀音國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上湖國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區三和國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區高原國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市平鎮區新勢國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區富岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區大同國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市私立溪海大自然幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣私立源興幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣新埔鎮枋寮國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "新竹縣",
+    "township": "峨眉鄉",
+    "school_name": "新竹縣峨眉鄉峨眉國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣立竹東幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣福基國小"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市頭份國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣造橋鄉錦水國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉華興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "獅潭鄉",
+    "school_name": "苗栗縣獅潭鄉獅潭國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣三義鄉鯉魚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市啟文國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉公館國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉中興國小附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市新興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉銅鑼國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "頭屋鄉",
+    "school_name": "苗栗縣頭屋國小附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣內灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉福基國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉新隆國小附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市僑育多元智能實驗國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣私立多倫多幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣斗煥非營利幼兒園(委託社團法人苗栗縣嬰幼兒閱讀推廣協會辦理)"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立文化幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣六合非營利幼兒園(委託明新學校財團法人設立之明新科技大學辦理)"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立瑪奇兒幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣/公館財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立 三之三嘉新幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉立幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立真正幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "獅潭鄉",
+    "school_name": "苗栗縣豐林幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "竹南鎮",
+    "school_name": "苗栗縣山佳非營利幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新成國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市私立一心園幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華帅兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "雲林縣",
+    "township": "崙背鄉",
+    "school_name": "雲林縣市崙背幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "市立美濃國中"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "市立南隆國中"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "市立龍肚國中"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "美濃國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "中壇國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "福安國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "東門國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "吉洋國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "龍山國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "上平國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "新威國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "龍肚國民小學及幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "美濃國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "中壇國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "吉東國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "上平國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣長興國小"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣豐田國小"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東寧國民小學育英分校"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣豐田國小附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔國小附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣西勢國小附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣香潭幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉立幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園泗溝分班"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "佳冬鄉",
+    "school_name": "屏東縣佳冬鄉立幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉私立立群幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "112",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "花蓮縣",
+    "township": "花蓮市",
+    "school_name": "花蓮縣花蓮市忠孝國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "112",
+    "county": "花蓮縣",
+    "township": "吉安鄉",
+    "school_name": "花蓮縣吉安鄉稻香國小附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "新北市",
+    "township": "板橋區",
+    "school_name": "新北市私立忠山幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市新屋區大坡國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市新屋區永安國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上湖國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞埔國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區三和國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區高原國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市平鎮區新勢國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市觀音區觀音國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區富岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區大同國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市中壢區中壢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市立觀音幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園平鎮分班"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市私立溪海大自然幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園南勢分班"
+  },
+  {
+    "YYYROC": "111",
+    "county": "新竹市",
+    "township": "東區",
+    "school_name": "新竹市東區關東國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣私立源興幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立芝?街幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立文化幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "頭屋鄉",
+    "school_name": "苗栗縣頭屋鄉頭屋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉福基國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉公館國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市頭份國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市后庄國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市信德國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立瑪奇兒幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立真正幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "南庄鄉",
+    "school_name": "苗栗縣南庄鄉南埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉三灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "獅潭鄉",
+    "school_name": "苗栗縣獅潭鄉獅潭國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣三義鄉鯉魚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣造橋鄉錦水國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣造橋鄉造橋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣卓蘭鎮內灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣私立多倫多幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉立幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉華興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉栗林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉九湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉銅鑼國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉新隆國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "竹南鎮",
+    "school_name": "苗栗縣山佳非營利幼兒園(委託財團法人新竹縣遠見多元教育發展協會辦理)"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉中興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區石岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區土牛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中科國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石角國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新成國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市私立一心園幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區東門國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉洋國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區中壇國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍山國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "高雄市六龜區新威國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "高雄市杉林區上平國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市立美濃國民中學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市立南隆國民中學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市立龍肚國民中學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉東國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "高雄市杉林區上平國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東寧國民小學育英分校"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣長治鄉長興國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣私立香潭幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉內埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣私立立群幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉立幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉西勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園泗溝分班"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "111",
+    "county": "花蓮縣",
+    "township": "花蓮市",
+    "school_name": "花蓮縣花蓮市忠孝國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新北市",
+    "township": "板橋區",
+    "school_name": "新北市私立忠山幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區龍星國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區富岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區大同國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市立觀音幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園（含紹豐分班、南勢分班、平鎮分班）"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市中壢區中壢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市大園區溪海國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊光非營利幼兒園（委託新竹市教保人員協會辦理）"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣私立源興幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "湖口鄉",
+    "school_name": "新竹縣私立故事島幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "橫山鄉",
+    "school_name": "新竹縣橫山鄉田寮國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣竹東鎮竹中國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "關西鎮",
+    "school_name": "新竹縣關西鎮關西國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣新埔鎮枋寮國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣新埔鎮新埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣新埔鎮新星國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "竹北市",
+    "school_name": "新竹縣私立米澤幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "關西鎮",
+    "school_name": "新竹縣關西鎮玉山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "竹北市",
+    "school_name": "新竹縣私立安安幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "新竹縣",
+    "township": "關西鎮",
+    "school_name": "新竹縣關西鎮石光國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市文山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立瑪奇兒幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立芝?街幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉中興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市新英國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉立幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "頭屋鄉",
+    "school_name": "苗栗縣頭屋鄉頭屋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "獅潭鄉",
+    "school_name": "苗栗縣獅潭鄉豐林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市頭份國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉華興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣造橋鄉錦水國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣造橋鄉錦水國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉福基國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "南庄鄉",
+    "school_name": "苗栗縣南庄鄉南埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣三義鄉鯉魚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市后庄國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣卓蘭鎮內灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市信德國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣三義鄉育英國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉三灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉鶴岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣造橋鄉造橋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "獅潭鄉",
+    "school_name": "苗栗縣獅潭鄉獅潭國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉文峰國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市新興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市啟文國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉九湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉銅鑼國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區石岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區土牛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東新國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中科國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石角國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新成國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市私立一心園幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "雲林縣",
+    "township": "崙背鄉",
+    "school_name": "雲林縣崙背鄉立幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市立美濃國民中學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市立南隆國民中學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市立龍肚國民中學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區東門國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉洋國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區中壇國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍山國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "高雄市六龜區新威國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉東國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "高雄市杉林區上平國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣長治鄉長興國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣私立香潭幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉內埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣私立立群幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉立幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園泗溝分班"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "110",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "花蓮縣",
+    "township": "吉安鄉",
+    "school_name": "花蓮縣吉安鄉稻香國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "110",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "新北市",
+    "township": "板橋區",
+    "school_name": "新北市私立忠山幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市中壢區新明國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市中壢區中壢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市立中壢高鐵幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園（含紹豐分班、南勢分班、平鎮分班分班）"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市平鎮區東勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區大同國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區富岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市立楊梅幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區龍星國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市立觀音幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市私立溪海大自然幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "新竹縣",
+    "township": "竹北市",
+    "school_name": "新竹縣私立源興貝多芬幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣私立源興幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "新竹縣",
+    "township": "湖口鄉",
+    "school_name": "新竹縣私立故事島幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "新竹縣",
+    "township": "竹北市",
+    "school_name": "新竹縣私立安安幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣私立真善美幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣私立多倫多幼兒園  "
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣頭份市私立瑪奇兒幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立文化幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉新開國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市文山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣私立三義名人幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市私立芳仁紀念幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立芝?街幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "頭屋鄉",
+    "school_name": "苗栗縣頭屋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉三灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣中興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉福基國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗市新英國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉立幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉東興國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市立東勢幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "豐原區",
+    "school_name": "臺中市立豐原幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區石岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區土牛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東新國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中科國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石角國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新成國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "高雄市杉林區上平國小附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區東門國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉洋國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區中壇國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍山國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "高雄市六龜區新威國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市立南隆國民中學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "高樹鄉",
+    "school_name": "屏東縣高樹鄉高樹國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣私立香潭幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉內埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣私立立群幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉西勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園泗溝分班"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉立幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣長治鄉長興國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "109",
+    "county": "花蓮縣",
+    "township": "吉安鄉",
+    "school_name": "花蓮縣吉安鄉稻香國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "109",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新北市",
+    "township": "泰山區",
+    "school_name": "新北市立泰山國民中學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新北市",
+    "township": "板橋區",
+    "school_name": "新北市私立忠山幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市立觀音幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園紹豐分班"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市私立溪海大自然幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市中壢區新明國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "桃園市",
+    "township": "大溪區",
+    "school_name": "桃園市大溪區南興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新竹縣",
+    "township": "竹北市",
+    "school_name": "新竹縣私立安安幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣竹東鎮瑞峰國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新竹縣",
+    "township": "湖口鄉",
+    "school_name": "新竹縣私立故事島幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣私立源興幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新竹縣",
+    "township": "湖口鄉",
+    "school_name": "新竹縣私立英格蘭幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣私立真善美幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "頭屋鄉",
+    "school_name": "苗栗縣頭屋鄉頭屋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市文山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉新開國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣公館鄉福基國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉立幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣苗栗市新英國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "銅鑼鄉",
+    "school_name": "苗栗縣銅鑼鄉中興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立瑪奇兒幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉三灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立芝?街幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉立幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立芳仁紀念幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市立東勢幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "豐原區",
+    "school_name": "臺中市立豐原幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區石岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區土牛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東新國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中科國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石角國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新成國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新盛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "雲林縣",
+    "township": "崙背鄉",
+    "school_name": "雲林縣私立惠華幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺南市",
+    "township": "仁德區",
+    "school_name": "臺南市仁德區仁德國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺南市",
+    "township": "仁德區",
+    "school_name": "臺南市立仁德幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "臺南市",
+    "township": "東區",
+    "school_name": "臺南市立忠孝國民中學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區東門國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉洋國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍山國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區中壇國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉東國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "高雄市六龜區新威國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市私立美濃欣欣幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣長治鄉長興國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉育英國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "高樹鄉",
+    "school_name": "屏東縣高樹鄉高樹國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣私立香潭幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉內埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣私立立群幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉西勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園泗溝分班"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉立幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "花蓮縣",
+    "township": "吉安鄉",
+    "school_name": "花蓮縣吉安鄉稻香國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "108",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新北市",
+    "township": "泰山區",
+    "school_name": "新北市立泰山國民中學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市立觀音幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園紹豐分班"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊梅國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市中壢區新明國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市私立溪海大自然幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新竹縣",
+    "township": "新埔鎮",
+    "school_name": "新竹縣新埔鎮立幼兒園文山分班"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新竹縣",
+    "township": "湖口鄉",
+    "school_name": "新竹縣湖口鄉立幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新竹縣",
+    "township": "新豐鄉",
+    "school_name": "新竹縣新豐鄉立幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新竹縣",
+    "township": "新豐鄉",
+    "school_name": "社團法人台灣琉璃光幼兒教育協會附設新竹縣私立聚集德非營利幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新竹縣",
+    "township": "湖口鄉",
+    "school_name": "新竹縣私立英格蘭幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新竹縣",
+    "township": "竹東鎮",
+    "school_name": "新竹縣私立真善美幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "新竹縣",
+    "township": "寶山鄉",
+    "school_name": "新竹縣寶山鄉立幼兒園新城分班"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立瑪奇兒幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣私立全有幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉立幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉三灣國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉立幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市立東勢幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "豐原區",
+    "school_name": "臺中市立豐原幼兒園朴子分班"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區石岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區土牛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東新國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中科國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石角國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新成國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新盛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區土牛國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "雲林縣",
+    "township": "崙背鄉",
+    "school_name": "雲林縣私立惠華幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺南市",
+    "township": "仁德區",
+    "school_name": "臺南市仁德區長興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺南市",
+    "township": "仁德區",
+    "school_name": "臺南市仁德區仁德國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "臺南市",
+    "township": "仁德區",
+    "school_name": "臺南市立仁德國民中學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "高雄市六龜區新威國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉東國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區東門國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍山國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "高雄市",
+    "township": "杉林區",
+    "school_name": "高雄市杉林區上平國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉育英國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣長治鄉長興國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "高樹鄉",
+    "school_name": "屏東縣高樹鄉高樹國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣私立香潭幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉內埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣私立立群幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉西勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園泗溝分班"
+  },
+  {
+    "YYYROC": "107",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "花蓮縣",
+    "township": "玉里鎮",
+    "school_name": "花蓮縣玉里鎮源城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "107",
+    "county": "花蓮縣",
+    "township": "玉里鎮",
+    "school_name": "花蓮縣玉里鎮三民國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "觀音區",
+    "school_name": "桃園市立觀音幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "桃園市立新屋幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "私立新奇屋幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "新屋區",
+    "school_name": "私立新學屋幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市立龍潭幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "龍潭區",
+    "school_name": "桃園市龍潭區德龍國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市私立小奶爸幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市立平鎮幼兒園平鎮分班"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "平鎮區",
+    "school_name": "桃園市平鎮區東勢國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊心國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區上田國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區楊梅國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "楊梅區",
+    "school_name": "桃園市楊梅區瑞原國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "中壢區",
+    "school_name": "桃園市中壢區新明國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "桃園市",
+    "township": "大園區",
+    "school_name": "桃園市私立溪海大自然幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "新竹縣",
+    "township": "新豐鄉",
+    "school_name": "社團法人台灣琉璃光幼兒教育協會附設新竹縣私立聚集德非營利幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立芝?街幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "頭屋鄉",
+    "school_name": "苗栗縣頭屋鄉頭屋國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "苗栗縣私立小木偶幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "頭份市",
+    "school_name": "苗栗縣私立牧羊幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "南庄鄉",
+    "school_name": "苗栗縣南庄鄉南埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "苗栗市",
+    "school_name": "苗栗縣私立芳仁紀念幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "西湖鄉",
+    "school_name": "苗栗縣西湖鄉西湖國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "三灣鄉",
+    "school_name": "苗栗縣三灣鄉立幼兒園 "
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "三義鄉",
+    "school_name": "苗栗縣三義鄉育英國民小學龍騰分校"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "公館鄉",
+    "school_name": "財團法人天主教耶穌瑪利亞聖心修女會附設苗栗縣私立仁光幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "造橋鄉",
+    "school_name": "苗栗縣私立中祥幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "卓蘭鎮",
+    "school_name": "苗栗縣卓蘭鎮景山國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "苗栗縣",
+    "township": "大湖鄉",
+    "school_name": "苗栗縣大湖鄉大南國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市立東勢幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市立石岡幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "新社區",
+    "school_name": "臺中市立新社幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "豐原區",
+    "school_name": "臺中市立豐原幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區石岡國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "石岡區",
+    "school_name": "臺中市石岡區土牛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區東新國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區成功國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中山國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區中科國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石角國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區石城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新成國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "臺中市",
+    "township": "東勢區",
+    "school_name": "臺中市東勢區新盛國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "彰化縣",
+    "township": "田尾鄉",
+    "school_name": "彰化縣私立嘉年華幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "雲林縣",
+    "township": "崙背鄉",
+    "school_name": "雲林縣私立惠華幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區美濃國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區福安國民小學暨附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍肚國民小學暨附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區中壇國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉東國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區東門國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區龍山國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區廣興國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區廣興國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "六龜區",
+    "school_name": "高雄市六龜區新威國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區私立美濃欣欣幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "高雄市",
+    "township": "美濃區",
+    "school_name": "高雄市美濃區吉洋國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉豐田國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉東勢國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣長治鄉長興國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉育英國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉萬巒國民小學"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "屏東市",
+    "school_name": "屏東縣私立學正幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "長治鄉",
+    "school_name": "屏東縣私立香潭幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣內埔鄉內埔國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "內埔鄉",
+    "school_name": "屏東縣私立立群幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "竹田鄉",
+    "school_name": "屏東縣竹田鄉立幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園五溝分班"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園四溝分班"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "萬巒鄉",
+    "school_name": "屏東縣萬巒鄉立幼兒園成德分班"
+  },
+  {
+    "YYYROC": "106",
+    "county": "屏東縣",
+    "township": "枋寮鄉",
+    "school_name": "屏東縣私立愛群幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣鳳林鎮鳳林國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "花蓮縣",
+    "township": "玉里鎮",
+    "school_name": "花蓮縣玉里鎮源城國民小學附設幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "花蓮縣",
+    "township": "吉安鄉",
+    "school_name": "花蓮縣私立毛毛虫幼兒園"
+  },
+  {
+    "YYYROC": "106",
+    "county": "花蓮縣",
+    "township": "鳳林鎮",
+    "school_name": "花蓮縣私立愛彌兒幼兒園"
+  }
+]

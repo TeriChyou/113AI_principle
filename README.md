@@ -25,3 +25,13 @@
 ## mplPrac_1.py
 
 - 繪圖的應用
+
+## readFileWithPandas.py
+
+- 利用pandas.read_csv,xml,json讀取 三種從政府公開資料平台下載的檔案 => 中文需要重新編碼處理
+
+## pandas_prac_1.py
+
+- 記錄一些pandas的用法
+
+- 還有dataFrame的一些資料除錯和分析、相關性
