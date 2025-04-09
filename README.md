@@ -35,3 +35,13 @@
 - 記錄一些pandas的用法
 
 - 還有dataFrame的一些資料除錯和分析、相關性
+
+## 2025 04 09
+
+### Machine Learning
+
+- 期中考預計要考回歸(Regression)
+
+### basicRegressions.py
+
+- 點進去看 很好玩的
