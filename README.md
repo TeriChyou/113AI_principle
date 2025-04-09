@@ -45,3 +45,7 @@
 ### basicRegressions.py
 
 - 點進去看 很好玩的
+
+### midterm_form.py
+
+- 期中的模板 不要直接抄 會爆炸 :)
