@@ -1,77 +1,66 @@
-from modules import *
-from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import PolynomialFeatures
-from sklearn.metrics import mean_squared_error
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.metrics import r2_score
+import random
 
+# ===== STEP 1: 讀取資料（假設用 y1，依學號決定）=====
+df = pd.read_csv("your_file.csv", usecols=[0, 1])  # x, y1
+data = df.to_numpy()
+x = data[:, 0]
+y_clean = data[:, 1]
 
-# ====== STEP 0: 全域變數（給之後決定用）======
-y_col_index = 1  # 先預設使用 y1（即第二欄），可以改成 2 or 3 看學號
+# ===== STEP 2: 加入一種隨機雜訊（選一種） =====
+noise_type = "uniform" # "uniform", "normal", "logistic"
+if noise_type == "uniform":
+    noise = np.random.uniform(-1, 1, size=len(x))
+elif noise_type == "normal":
+    noise = np.random.normal(0, 1, size=len(x))
+else:
+    noise = np.random.logistic(0, 1, size=len(x))
+
+y = y_clean + noise
+
+# ===== STEP 3: 自動尋找最佳 degree（R² 差 < 1%）=====
 max_degree = 10
-noise_scale = 1.0
-csv_file = 'your_file.csv'  # ←請換成實際檔案名稱
-
-# ====== STEP 1: 讀取資料並轉 numpy ======
-df = pd.read_csv(csv_file, usecols=[0, y_col_index])  # 只選 x 與 y1/2/3
-df_arr = df.to_numpy()
-x_raw = df_arr[:, 0].reshape(-1, 1)
-y_clean = df_arr[:, 1]
-
-# ====== STEP 2: 加入隨機雜訊 ======
-# 隨便選三種不同雜訊
-noise = (
-    np.array([np.random.uniform(-1, 1) for _ in range(len(x_raw))]) +
-    np.random.normal(0, noise_scale, size=len(x_raw)) +
-    np.random.logistic(0, noise_scale, size=len(x_raw))
-)
-y_noisy = y_clean + noise
-
-# ====== STEP 3: 找最佳多項式次數（誤差差距 < 1%）======
 best_degree = 1
-prev_mse = float('inf')
+prev_r2 = -np.inf
 
-for degree in range(1, max_degree + 1):
-    poly = PolynomialFeatures(degree)
-    x_poly = poly.fit_transform(x_raw)
-    
-    model = LinearRegression().fit(x_poly, y_noisy)
-    y_pred = model.predict(x_poly)
-    mse = mean_squared_error(y_noisy, y_pred)
-
-    if abs(prev_mse - mse) / prev_mse < 0.01:
-        best_degree = degree - 1  # 上一個就夠好
+for d in range(1, max_degree + 1):
+    model = np.poly1d(np.polyfit(x, y, d))
+    r2 = r2_score(y, model(x))
+    if d > 1 and abs(r2 - prev_r2) < 0.01:
+        best_degree = d - 1
         break
-    prev_mse = mse
+    prev_r2 = r2
 
-# ====== STEP 4: 視覺化最佳 fit 曲線 ======
-poly_best = PolynomialFeatures(best_degree)
-x_poly_best = poly_best.fit_transform(x_raw)
-y_fit = LinearRegression().fit(x_poly_best, y_noisy).predict(x_poly_best)
+# 最終模型
+model = np.poly1d(np.polyfit(x, y, best_degree))
 
-plt.scatter(x_raw, y_noisy, label="Noisy Data")
-plt.plot(x_raw, y_fit, color='red', label=f"Poly Fit (deg={best_degree})")
-plt.title("Polynomial Regression Fit")
+# ===== STEP 4: 畫圖 + 顯示 R² 分數 =====
+x_line = np.linspace(min(x), max(x), 100)
+plt.scatter(x, y, label=f"R²: {r2_score(y, model(x)):.4f}")
+plt.plot(x_line, model(x_line), color='red', label=f"Poly deg={best_degree}")
+plt.title("Polynomial Regression (最佳次數)")
 plt.xlabel("x")
 plt.ylabel("y")
 plt.legend()
 plt.grid()
 plt.show()
 
-# ====== STEP 5: 轉為 a × b 矩陣後算行列式與反矩陣 ======
-# 假設 reshape 成方陣 a x a（最近接平方數）
-length = len(x_raw)
+# ===== STEP 5: reshape → 計算行列式與反矩陣驗證 =====
+length = len(x)
 a = int(np.floor(np.sqrt(length)))
 b = a
 
-x_matrix = x_raw[:a*b].reshape(a, b)
-y_matrix = y_noisy[:a*b].reshape(a, b)
+y_mat = y[:a*b].reshape(a, b)
 
-# 任選一個做運算
 try:
-    det = np.linalg.det(y_matrix)
-    inverse = np.linalg.inv(y_matrix)
-
-    print(f"\nDeterminant = {det:.3f}")
-    identity_check = y_matrix @ inverse
-    print("y_matrix * inverse ≈ identity matrix?\n", np.round(identity_check, 2))
+    det = np.linalg.det(y_mat)
+    inv = np.linalg.inv(y_mat)
+    identity = y_mat @ inv # np.dot(y_mat, inv)
+    print(f"行列式 (det): {det:.2f}")
+    print("反矩陣乘原矩陣 ≈ 單位矩陣？")
+    print(np.round(identity, 2))
 except np.linalg.LinAlgError:
-    print("❌ 此矩陣無反矩陣（可能是奇異矩陣）")
+    print("❌ 無法計算反矩陣（可能是奇異矩陣）")
