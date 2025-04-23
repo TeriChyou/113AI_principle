@@ -49,3 +49,17 @@
 ### midterm_form.py
 
 - 期中的模板 不要直接抄 會爆炸 :)
+
+## 2025 04 16
+
+### 期中考的東西 :)
+
+## 2025 04 23
+
+### standardization.py
+
+- 可能是練習標準化ㄅ 
+
+### NOTE
+
+- 線性回歸, 決策樹=>隨機森林, 最近近鄰, 階層式, Hirarchical Clustering
