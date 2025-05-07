@@ -63,3 +63,12 @@
 ### NOTE
 
 - 線性回歸, 決策樹=>隨機森林, 最近近鄰, 階層式, Hirarchical Clustering
+
+## 2025 05 07
+
+- 新增Neuron Network資料夾
+
+    - Sigmoid是拿來壓縮輸入值變成0~1的function
+    - 
+
+- 期末考，老師給予範例程式、多加條件後改好給老師
