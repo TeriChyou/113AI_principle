@@ -74,3 +74,8 @@
 - 期末考，老師給予範例程式、多加條件後改好給老師
 
 ## 2025 05 14 (114514)
+
+
+## 2025 05 28
+
+- irisDataTraining.py => Model training maybe?
