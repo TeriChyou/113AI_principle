@@ -79,3 +79,8 @@
 ## 2025 05 28
 
 - irisDataTraining.py => Model training maybe?
+
+## 2025 05 35 (06 04)
+
+- added iris_total from Prof. a bunch of example codes for iris_data training.
+- Added the homework for 0611 

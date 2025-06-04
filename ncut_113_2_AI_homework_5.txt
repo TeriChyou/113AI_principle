@@ -1,0 +1,19 @@
+NCUT 人工智慧homework 2024/06/12 17:00 before
+
+(3A217234是範例學號,請改用你的學號)
+
+email to: wenphd@ncut.edu.tw
+
+主旨(Subject):NCUT113_2_AI_3A217234_0604
+
+檔案名稱(file name):學號_日期.py ex:3A217234_0604.py
+
+以上格式不對的先扣20分
+
+1a.iris.data的第1~50,101~150筆資料(student number is odd)
+1b.iris.data的第51~150筆資料(student number is even)
+以上不准動到 iris.data 的原始資料
+
+2.取每種鳶尾花的前15筆資料當成測試資料,後面35筆資料當成訓練資料
+
+3.改寫iris.py程式把訓練次數改成500次,列印出測試資料的訓練成果 

@@ -3,17 +3,17 @@ import sys
 import time
 
 # import the data # 花萼長度、寬度、花瓣長度、品種名稱 150筆資料
-df = pd.read_csv('irisdata/iris.data', header=None)
+df = pd.read_csv('irisdata/modifiedData.csv', header=None)
 
 # 資料預處理 取前百 僅區別兩種 分成訓練集40 & 測試集10
+# 因為csv有title 所以資料要從1~101 而非 0~100
+x = df.iloc[1:101, [0,1,2,3,4,5]].values
+y = df.iloc[1:101, 6].values
 
-x = df.iloc[0:100, [0,1,2,3]].values
-y = df.iloc[0:100, 4].values
+y = np.where(y == 'iris-setosa', 0, 1)
 
-y = np.where(y == 'Iris-setosa', 0, 1)
-
-x_train = np.empty((80, 4)) # 訓練資料有八十筆
-x_test = np.empty((20, 4)) # 測試資料有二十筆
+x_train = np.empty((80, 6)) # 訓練資料有八十筆
+x_test = np.empty((20, 6)) # 測試資料有二十筆
 y_train = np.empty(80) # 訓練的答案有八十筆
 y_test = np.empty(20) # 要測試的答案有二十筆
 x_train[:40], x_train[40:] = x[:40], x[50:90] 
@@ -43,13 +43,13 @@ def update(x, y, w, b, eta):
     # eta: 學習率 (單一值) 越小收斂越慢
     y_pred = sigmoid(x, w, b)  # 預測值
     a = (y_pred - y_train) * y_pred * (1 - y_pred)  # 誤差修正量 1-y_pred 為 預測為0的機率
-    for i in range(4):
+    for i in range(x.shape[1]):
         w[i] -= eta * 1/float(len(y)) * np.sum(a*x[:,i])  # 更新每個特徵的權重 len(y) 為訓練資料的樣本數
     b -= eta*1/float(len(y)) * np.sum(a)  # 更新偏差
     return w, b
 
 # Main training stuffs
-weights = np.ones(4)/10
+weights = np.ones(6)/10
 bias = np.ones(1)/10
 eta = 0.1
 
