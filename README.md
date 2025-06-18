@@ -84,3 +84,7 @@
 
 - added iris_total from Prof. a bunch of example codes for iris_data training.
 - Added the homework for 0611 
+
+## 2025 06 11
+
+- added finalTermTest.py in homework for preparation of final term exam

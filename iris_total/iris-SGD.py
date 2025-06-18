@@ -2,18 +2,21 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets
 
-# -- 載入 Iris 資料集 --
+# -- 載入 Iris 資料集 -- 
+## ==> 用pandas讀檔案
 iris_data = datasets.load_iris()
 input_data = iris_data.data
 correct = iris_data.target
 n_data = len(correct)  # 樣本數
 
 # -- 將訓練樣本做標準化 (standardization) x_std=(x-mean)/sigma 處理 --
+
 ave_input = np.average(input_data, axis=0)
 std_input = np.std(input_data, axis=0)
 input_data = (input_data - ave_input) / std_input
 
 # -- 將標籤 (正確答案) 做 one-hot 編碼 --
+## ==> 用自己的方法做標準化
 correct_data = np.zeros((n_data, 3))
 for i in range(n_data):
     correct_data[i, correct[i]] = 1.0
